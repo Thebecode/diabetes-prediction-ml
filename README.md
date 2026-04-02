@@ -1,3 +1,5 @@
-# Diabetes Prediction (Machine Learning Project)
+## PACE Report
 
-Built as part of my learning journey in data analysis and machine learning.
+A detailed report following the PACE (Plan, Analyze, Construct, Execute) framework is included in this project:
+
+- Diabetes_PACE_Report.docx
