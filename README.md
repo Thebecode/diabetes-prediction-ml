@@ -1,2 +1,3 @@
-# diabetes-prediction-ml
-Machine learning project predicting diabetes using patient health data with full data analysis workflow
+# Diabetes Prediction (Machine Learning Project)
+
+Built as part of my learning journey in data analysis and machine learning.
